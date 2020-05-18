@@ -6,7 +6,6 @@ AlgoCoin is a python library for writing trading algorithms. It is designed usin
 [![Build Status](https://travis-ci.org/timkpaine/algo-coin.svg?branch=master)](https://travis-ci.org/timkpaine/algo-coin)
 [![Coverage](https://codecov.io/gh/timkpaine/algo-coin/coverage.svg?branch=master&token=JGqz8ChQxd)](https://codecov.io/gh/timkpaine/algo-coin)
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/algo-coin/Lobby)
-[![BCH compliance](https://bettercodehub.com/edge/badge/timkpaine/algo-coin?branch=master)](https://bettercodehub.com/)
 [![License](https://img.shields.io/github/license/timkpaine/algo-coin.svg)](https://pypi.python.org/pypi/algocoin)
 [![PyPI](https://img.shields.io/pypi/v/algocoin.svg)](https://pypi.python.org/pypi/algocoin)
 [![Docs](https://img.shields.io/readthedocs/algo-coin.svg)](http://algo-coin.readthedocs.io/en/latest/)
